@@ -1,5 +1,4 @@
 # match-game
 1st Project!
 
-//4-28-17
-//Revised project to a clickable photo gallery until skills are sharpened enough to enhance the interactivity.
+Mobile friendly. jQuery used on the other version doesn't work with touchscreen devices?
